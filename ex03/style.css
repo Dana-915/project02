@@ -1,0 +1,40 @@
+
+.named-color {
+    background-color: tomato;
+}
+
+
+.hex-color {
+    background-color: #3498db;
+}
+
+
+.rgb-color {
+    background-color: rgb(46, 204, 113);
+}
+
+
+.rgba-color {
+    background-color: rgba(155, 89, 182, 0.5);
+}
+
+
+.opacity-box {
+    background-color: blue;
+    opacity: 0.5;
+}
+
+
+.background-box {
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+
+.color-box,
+.opacity-box,
+.background-box {
+    width: 250px;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid black;
+}
